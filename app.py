@@ -28,7 +28,7 @@ df = cargar_base()
 
 mapa = {int(k): v for k, v in metadata['mapa_riesgo'].items()}
 
-st.caption(metadata['nombre_modelo'])
+st.caption(metadata["proyecto", "Riesgo Actuarial"])
 
 with st.form('datos'):
 
